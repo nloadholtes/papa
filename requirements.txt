@@ -1,5 +1,11 @@
+flickrapi==2.0
 gnureadline==6.3.3
 ipdb==0.8
 ipython==2.3.0
 numpy==1.9.0
+oauthlib==0.7.1
+requests==2.4.3
+requests-oauthlib==0.4.2
+requests-toolbelt==0.3.1
 scipy==0.14.0
+six==1.8.0
