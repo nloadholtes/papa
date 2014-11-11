@@ -16,3 +16,4 @@ Experiments with Computer Vision
     * ID the bird
  * Using the face finder to center the images from the commit pics
  * ???
+ * Barcode reading!
