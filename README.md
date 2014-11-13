@@ -15,5 +15,6 @@ Experiments with Computer Vision
     * Take picture when bird is in frame
     * ID the bird
  * Using the face finder to center the images from the commit pics
- * ???
  * Barcode reading!
+   * URL talking about barcode identification with OpenCV: http://stackoverflow.com/questions/9013703/how-to-find-the-location-of-red-region-in-an-image-using-matlab/9014569#9014569
+   * Pictures from various sources
