@@ -10,6 +10,7 @@ Experiments with Computer Vision
       * Identify "serial numbers"
       * Extract for analysis - how many there are
       * On recipts: how much is the business making per day/week/etc
+      * https://en.wikipedia.org/wiki/German_tank_problem
  * Bird identification
     * Webcam monitoring birdfeeder
     * Take picture when bird is in frame
