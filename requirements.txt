@@ -1,7 +1,7 @@
 flickrapi==2.0
 gnureadline==6.3.3
 ipdb==0.8
-ipython==7.16.3
+ipython==8.10.0
 mahotas==1.2.3
 numpy>=1.22.0
 oauthlib==0.7.1
